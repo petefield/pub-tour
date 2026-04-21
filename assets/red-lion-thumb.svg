@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Red Lion thumbnail">
+  <rect width="120" height="120" fill="#8f3f2d" />
+  <circle cx="35" cy="42" r="20" fill="#ffd9a0" />
+  <rect x="18" y="68" width="84" height="32" fill="#f7c873" />
+  <text x="60" y="112" text-anchor="middle" font-size="12" fill="#fff">Red Lion</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Fox and Hounds thumbnail">
+  <rect width="120" height="120" fill="#2f4f4f" />
+  <circle cx="60" cy="50" r="24" fill="#f0b56c" />
+  <rect x="20" y="76" width="80" height="18" fill="#dbe4df" />
+  <text x="60" y="112" text-anchor="middle" font-size="10" fill="#fff">Fox &amp; Hounds</text>
+</svg>
