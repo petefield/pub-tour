@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" role="img" aria-label="Dessert">
+  <rect width="560" height="320" fill="#5a3e36" />
+  <ellipse cx="280" cy="220" rx="180" ry="70" fill="#ece2d0" />
+  <ellipse cx="280" cy="190" rx="90" ry="45" fill="#8d6e63" />
+  <circle cx="280" cy="150" r="25" fill="#fff3d1" />
+</svg>
